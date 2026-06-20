@@ -23,7 +23,7 @@ st.markdown(f"""
         background-color: {COR_PRIMARIA};
     }}
     section[data-testid="stSidebar"] * {{
-        color: #15111F !important;
+        color: #FFFFFF !important;
     }}
     .main-header {{
         background: linear-gradient(90deg, {COR_PRIMARIA} 0%, #145488 100%);
